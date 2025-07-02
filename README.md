@@ -1,13 +1,13 @@
-🙋‍♂️ About Me
-Hey! I'm Vojasvi Reddy, a passionate frontend developer in the making.
+🙋‍♂️ About Me  
+Hey! I'm Vojasvi Reddy, a passionate frontend developer in the making.  
 If you liked this project or want to collaborate, feel free to connect!
 
-🔗 LinkedIn 
+🔗 LinkedIn: www.linkedin.com/in/vojasvireddyk  
 📫 Email: vojasvireddy13k@gmail.com
 
-⭐ Show Some Love
-If you found this project helpful or cool, please ⭐ it on GitHub!
-Let’s build more and learn more, together 💛
+⭐ Show Some Love  
+If you found this project helpful or cool, please ⭐ it on GitHub!  
+Let’s build more and learn more, together 💛  
 
 # 💱 Currency Converter – JavaScript Project
 
